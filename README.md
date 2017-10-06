@@ -1,5 +1,7 @@
 # Angular2Events
 
+Different ways of handling events in angular.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
 ## Development server
